@@ -15,8 +15,13 @@ const app = express();
 app.use(express.json());
 app.use(cors(corsOptions));
 
-const jsonData = fs.readFileSync("meetups.json", "utf-8");
-const meetupsData = JSON.parse(jsonData);
+let meetupsData = [];
+try {
+  const jsonData = fs.readFileSync("meetups.json", "utf-8");
+  meetupsData = JSON.parse(jsonData);
+} catch (error) {
+  throw error;
+}
 
 const seedData = async () => {
   try {
