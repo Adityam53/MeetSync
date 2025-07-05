@@ -1,0 +1,819 @@
+[
+    {
+        "title": "UI/UX Workshop",
+        "date": "Tue July 15 2025",
+        "startTime": "11:00:00 AM IST",
+        "endTime": "01:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/ui_ux_workshop.jpg",
+        "tags": [
+            "design",
+            "ux"
+        ],
+        "details": "Attend an interactive workshop dedicated to modern UI/UX principles and user-centered design. Learn about usability heuristics, wireframing, prototyping, and user research methods firsthand. Apply design thinking through hands-on exercises and real-world case studies. Tanya Singh will highlight common design pitfalls and best practices across industries. Enjoy live feedback sessions and peer critiques to refine your approach. Tailored for designers, product managers, and anyone interested in user experience.",
+        "dressCode": "Smart Casual",
+        "ageRestrictions": "18 and above",
+        "speakers": [
+            {
+                "speakerName": "Tanya Singh",
+                "speakerDesignation": "UX Strategist",
+                "speakerImg": "https://example.com/speakers/tanya_singh.jpg"
+            }
+        ],
+        "venue": "Creative Hall, Design District",
+        "entryFee": 300
+    },
+    {
+        "title": "Digital Marketing Summit 2025",
+        "date": "Fri August 21 2025",
+        "startTime": "09:00:00 AM IST",
+        "endTime": "05:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/digital_marketing_summit.jpg",
+        "tags": [
+            "marketing",
+            "digital"
+        ],
+        "details": "Join industry leaders to explore the latest trends in digital marketing including SEO, content strategy, social media, and data analytics. Sessions include hands-on workshops, keynote speeches, and panel discussions designed to boost your marketing skills. Network with professionals and gain insights into emerging technologies and customer engagement techniques.",
+        "dressCode": "Business Casual",
+        "ageRestrictions": "16 and above",
+        "speakers": [
+            {
+                "speakerName": "Rajesh Kumar",
+                "speakerDesignation": "Chief Marketing Officer",
+                "speakerImg": "https://example.com/speakers/rajesh_kumar.jpg"
+            },
+            {
+                "speakerName": "Maya Patel",
+                "speakerDesignation": "SEO Expert",
+                "speakerImg": "https://example.com/speakers/maya_patel.jpg"
+            }
+        ],
+        "venue": "Tech Expo Center, Mumbai",
+        "entryFee": 750
+    },
+    {
+        "title": "Python for Data Science Bootcamp",
+        "date": "Mon September 1 2025",
+        "startTime": "10:00:00 AM IST",
+        "endTime": "04:00:00 PM IST",
+        "type": "Online",
+        "imageThumbnail": "https://example.com/images/python_datascience_bootcamp.jpg",
+        "tags": [
+            "programming",
+            "data science"
+        ],
+        "details": "Master Python basics and advanced techniques for data science applications in this intensive bootcamp. Topics include data manipulation, visualization, machine learning models, and real-world projects using popular libraries such as pandas, numpy, matplotlib, and scikit-learn. Suitable for beginners and intermediate learners.",
+        "dressCode": "Casual",
+        "ageRestrictions": "15 and above",
+        "speakers": [
+            {
+                "speakerName": "Anil Joshi",
+                "speakerDesignation": "Data Scientist",
+                "speakerImg": "https://example.com/speakers/anil_joshi.jpg"
+            }
+        ],
+        "venue": "Virtual Classroom",
+        "entryFee": 500
+    },
+    {
+        "title": "Sustainable Living Conference",
+        "date": "Sat October 12 2025",
+        "startTime": "08:30:00 AM IST",
+        "endTime": "06:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/sustainable_living_conference.jpg",
+        "tags": [
+            "environment",
+            "sustainability"
+        ],
+        "details": "Explore innovative solutions and lifestyle changes that contribute to sustainability and environmental protection. The conference features experts discussing renewable energy, waste reduction, green building, and ethical consumerism. Participate in workshops, networking sessions, and eco-friendly exhibitions.",
+        "dressCode": "Casual",
+        "ageRestrictions": "All ages",
+        "speakers": [
+            {
+                "speakerName": "Dr. Kavita Sharma",
+                "speakerDesignation": "Environmental Scientist",
+                "speakerImg": "https://example.com/speakers/kavita_sharma.jpg"
+            }
+        ],
+        "venue": "Green Auditorium, Eco Park",
+        "entryFee": 400
+    },
+    {
+        "title": "Creative Writing Workshop",
+        "date": "Sun November 9 2025",
+        "startTime": "11:00:00 AM IST",
+        "endTime": "02:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/creative_writing_workshop.jpg",
+        "tags": [
+            "writing",
+            "creativity"
+        ],
+        "details": "Unlock your creative potential in this interactive writing workshop. Learn techniques for character development, storytelling, plot structuring, and editing. Participants will write short pieces and receive constructive feedback from published author Priya Menon.",
+        "dressCode": "Comfortable",
+        "ageRestrictions": "16 and above",
+        "speakers": [
+            {
+                "speakerName": "Priya Menon",
+                "speakerDesignation": "Author & Editor",
+                "speakerImg": "https://example.com/speakers/priya_menon.jpg"
+            }
+        ],
+        "venue": "Art Studio, Downtown Library",
+        "entryFee": 250
+    },
+    {
+        "title": "Blockchain Technology Expo",
+        "date": "Wed December 3 2025",
+        "startTime": "10:00:00 AM IST",
+        "endTime": "06:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/blockchain_expo.jpg",
+        "tags": [
+            "technology",
+            "blockchain"
+        ],
+        "details": "Discover the latest advancements in blockchain technology and decentralized applications. Keynote speakers include industry pioneers and innovators. Topics cover cryptocurrencies, smart contracts, and enterprise blockchain solutions. Engage in demos and networking with tech startups.",
+        "dressCode": "Business Casual",
+        "ageRestrictions": "18 and above",
+        "speakers": [
+            {
+                "speakerName": "Suresh Patil",
+                "speakerDesignation": "Blockchain Developer",
+                "speakerImg": "https://example.com/speakers/suresh_patil.jpg"
+            }
+        ],
+        "venue": "Innovation Center, Bangalore",
+        "entryFee": 600
+    },
+    {
+        "title": "Photography Masterclass",
+        "date": "Sat January 18 2025",
+        "startTime": "02:00:00 PM IST",
+        "endTime": "05:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/photography_masterclass.jpg",
+        "tags": [
+            "photography",
+            "art"
+        ],
+        "details": "Learn the fundamentals of photography, including composition, lighting, and editing techniques. Led by award-winning photographer Arjun Mehta, this class is ideal for enthusiasts looking to improve their skills.",
+        "dressCode": "Casual",
+        "ageRestrictions": "14 and above",
+        "speakers": [
+            {
+                "speakerName": "Arjun Mehta",
+                "speakerDesignation": "Professional Photographer",
+                "speakerImg": "https://example.com/speakers/arjun_mehta.jpg"
+            }
+        ],
+        "venue": "Studio 9, Arts Complex",
+        "entryFee": 350
+    },
+    {
+        "title": "Yoga & Wellness Retreat",
+        "date": "Fri February 14 2025",
+        "startTime": "07:00:00 AM IST",
+        "endTime": "12:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/yoga_wellness_retreat.jpg",
+        "tags": [
+            "health",
+            "wellness"
+        ],
+        "details": "Join a rejuvenating retreat focusing on yoga, meditation, and holistic health. Suitable for all levels, this session will guide participants through techniques for stress relief, flexibility, and mindfulness.",
+        "dressCode": "Comfortable",
+        "ageRestrictions": "All ages",
+        "speakers": [
+            {
+                "speakerName": "Meera Iyer",
+                "speakerDesignation": "Yoga Instructor",
+                "speakerImg": "https://example.com/speakers/meera_iyer.jpg"
+            }
+        ],
+        "venue": "Serenity Center, Pune",
+        "entryFee": 450
+    },
+    {
+        "title": "AI in Healthcare Symposium",
+        "date": "Thu March 20 2025",
+        "startTime": "09:00:00 AM IST",
+        "endTime": "04:00:00 PM IST",
+        "type": "Online",
+        "imageThumbnail": "https://example.com/images/ai_healthcare_symposium.jpg",
+        "tags": [
+            "technology",
+            "healthcare",
+            "AI"
+        ],
+        "details": "Explore the impact of artificial intelligence on healthcare, including diagnostics, patient care, and research advancements. Leading experts present case studies and latest innovations shaping the future of medicine.",
+        "dressCode": "Business Casual",
+        "ageRestrictions": "18 and above",
+        "speakers": [
+            {
+                "speakerName": "Dr. Neha Gupta",
+                "speakerDesignation": "AI Researcher",
+                "speakerImg": "https://example.com/speakers/neha_gupta.jpg"
+            },
+            {
+                "speakerName": "Dr. Sanjay Rao",
+                "speakerDesignation": "Healthcare Consultant",
+                "speakerImg": "https://example.com/speakers/sanjay_rao.jpg"
+            }
+        ],
+        "venue": "Virtual Conference",
+        "entryFee": 700
+    },
+    {
+        "title": "Startup Pitch Day",
+        "date": "Tue April 8 2025",
+        "startTime": "10:00:00 AM IST",
+        "endTime": "03:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/startup_pitch_day.jpg",
+        "tags": [
+            "entrepreneurship",
+            "startup"
+        ],
+        "details": "Watch innovative startups pitch their ideas to a panel of investors and industry experts. Gain insights into business strategies and network with founders and venture capitalists.",
+        "dressCode": "Business Formal",
+        "ageRestrictions": "18 and above",
+        "speakers": [
+            {
+                "speakerName": "Vikram Singh",
+                "speakerDesignation": "Angel Investor",
+                "speakerImg": "https://example.com/speakers/vikram_singh.jpg"
+            }
+        ],
+        "venue": "Entrepreneur Hub, Delhi",
+        "entryFee": 800
+    },
+    {
+        "title": "Culinary Arts Workshop",
+        "date": "Sun May 11 2025",
+        "startTime": "01:00:00 PM IST",
+        "endTime": "04:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/culinary_arts_workshop.jpg",
+        "tags": [
+            "food",
+            "cooking"
+        ],
+        "details": "Enhance your cooking skills with Chef Ananya Desai. This workshop covers essential culinary techniques, recipe development, and plating artistry. Suitable for food enthusiasts and aspiring chefs.",
+        "dressCode": "Casual",
+        "ageRestrictions": "16 and above",
+        "speakers": [
+            {
+                "speakerName": "Ananya Desai",
+                "speakerDesignation": "Executive Chef",
+                "speakerImg": "https://example.com/speakers/ananya_desai.jpg"
+            }
+        ],
+        "venue": "Gourmet Kitchen, Food Plaza",
+        "entryFee": 550
+    },
+    {
+        "title": "Photography Exhibition Opening",
+        "date": "Fri June 6 2025",
+        "startTime": "06:00:00 PM IST",
+        "endTime": "09:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/photography_exhibition.jpg",
+        "tags": [
+            "art",
+            "photography",
+            "exhibition"
+        ],
+        "details": "Celebrate the opening of an exclusive photography exhibition featuring works from emerging and established photographers. Enjoy artist talks and live music.",
+        "dressCode": "Smart Casual",
+        "ageRestrictions": "All ages",
+        "speakers": [
+            {
+                "speakerName": "Rina Kapoor",
+                "speakerDesignation": "Curator",
+                "speakerImg": "https://example.com/speakers/rina_kapoor.jpg"
+            }
+        ],
+        "venue": "Gallery One, Art District",
+        "entryFee": 150
+    },
+    {
+        "title": "Advanced Excel Training",
+        "date": "Wed July 23 2025",
+        "startTime": "09:30:00 AM IST",
+        "endTime": "01:30:00 PM IST",
+        "type": "Online",
+        "imageThumbnail": "https://example.com/images/advanced_excel_training.jpg",
+        "tags": [
+            "training",
+            "excel",
+            "productivity"
+        ],
+        "details": "Boost your productivity by mastering advanced Excel features like pivot tables, macros, and data analysis tools. Ideal for professionals working with large datasets and reporting.",
+        "dressCode": "Casual",
+        "ageRestrictions": "18 and above",
+        "speakers": [
+            {
+                "speakerName": "Rahul Mehta",
+                "speakerDesignation": "Data Analyst",
+                "speakerImg": "https://example.com/speakers/rahul_mehta.jpg"
+            }
+        ],
+        "venue": "Virtual Training Room",
+        "entryFee": 350
+    },
+    {
+        "title": "Film Making Bootcamp",
+        "date": "Sat August 15 2025",
+        "startTime": "10:00:00 AM IST",
+        "endTime": "05:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/film_making_bootcamp.jpg",
+        "tags": [
+            "film",
+            "media",
+            "art"
+        ],
+        "details": "Learn the essentials of filmmaking from scriptwriting to post-production. Directed by acclaimed filmmaker Rajiv Malhotra, this bootcamp covers storytelling, camera work, and editing.",
+        "dressCode": "Casual",
+        "ageRestrictions": "16 and above",
+        "speakers": [
+            {
+                "speakerName": "Rajiv Malhotra",
+                "speakerDesignation": "Filmmaker",
+                "speakerImg": "https://example.com/speakers/rajiv_malhotra.jpg"
+            }
+        ],
+        "venue": "Film Studio, City Center",
+        "entryFee": 700
+    },
+    {
+        "title": "Women in Tech Panel",
+        "date": "Thu September 18 2025",
+        "startTime": "02:00:00 PM IST",
+        "endTime": "05:00:00 PM IST",
+        "type": "Online",
+        "imageThumbnail": "https://example.com/images/women_in_tech_panel.jpg",
+        "tags": [
+            "technology",
+            "women",
+            "career"
+        ],
+        "details": "Join a panel of leading women in technology discussing career growth, diversity, and overcoming challenges in the tech industry. Q&A session included.",
+        "dressCode": "Business Casual",
+        "ageRestrictions": "18 and above",
+        "speakers": [
+            {
+                "speakerName": "Neha Verma",
+                "speakerDesignation": "Software Engineer",
+                "speakerImg": "https://example.com/speakers/neha_verma.jpg"
+            },
+            {
+                "speakerName": "Divya Iyer",
+                "speakerDesignation": "Product Manager",
+                "speakerImg": "https://example.com/speakers/divya_iyer.jpg"
+            }
+        ],
+        "venue": "Online Webinar",
+        "entryFee": 0
+    },
+    {
+        "title": "Financial Planning Seminar",
+        "date": "Mon October 20 2025",
+        "startTime": "11:00:00 AM IST",
+        "endTime": "02:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/financial_planning_seminar.jpg",
+        "tags": [
+            "finance",
+            "planning"
+        ],
+        "details": "Learn how to manage personal finances, investments, and retirement planning from certified financial advisors. Gain practical tips on budgeting and wealth management.",
+        "dressCode": "Business Casual",
+        "ageRestrictions": "18 and above",
+        "speakers": [
+            {
+                "speakerName": "Sunil Kapoor",
+                "speakerDesignation": "Financial Advisor",
+                "speakerImg": "https://example.com/speakers/sunil_kapoor.jpg"
+            }
+        ],
+        "venue": "Conference Room B, Finance Tower",
+        "entryFee": 400
+    },
+    {
+        "title": "Robotics Workshop",
+        "date": "Fri November 14 2025",
+        "startTime": "09:00:00 AM IST",
+        "endTime": "03:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/robotics_workshop.jpg",
+        "tags": [
+            "technology",
+            "robotics"
+        ],
+        "details": "Hands-on workshop to build and program robots using Arduino and Raspberry Pi platforms. Perfect for students and hobbyists interested in robotics and automation.",
+        "dressCode": "Casual",
+        "ageRestrictions": "14 and above",
+        "speakers": [
+            {
+                "speakerName": "Rohit Deshmukh",
+                "speakerDesignation": "Robotics Engineer",
+                "speakerImg": "https://example.com/speakers/rohit_deshmukh.jpg"
+            }
+        ],
+        "venue": "Tech Lab, Innovation Park",
+        "entryFee": 600
+    },
+    {
+        "title": "Public Speaking Seminar",
+        "date": "Sun December 7 2025",
+        "startTime": "10:00:00 AM IST",
+        "endTime": "01:00:00 PM IST",
+        "type": "Online",
+        "imageThumbnail": "https://example.com/images/public_speaking_seminar.jpg",
+        "tags": [
+            "communication",
+            "public speaking"
+        ],
+        "details": "Develop your public speaking and presentation skills through interactive sessions and live practice. Tips on managing stage fright and engaging audiences.",
+        "dressCode": "Smart Casual",
+        "ageRestrictions": "15 and above",
+        "speakers": [
+            {
+                "speakerName": "Anjali Rao",
+                "speakerDesignation": "Communication Coach",
+                "speakerImg": "https://example.com/speakers/anjali_rao.jpg"
+            }
+        ],
+        "venue": "Virtual Classroom",
+        "entryFee": 300
+    },
+    {
+        "title": "Mobile App Development Course",
+        "date": "Tue January 14 2025",
+        "startTime": "11:00:00 AM IST",
+        "endTime": "04:00:00 PM IST",
+        "type": "Online",
+        "imageThumbnail": "https://example.com/images/mobile_app_development.jpg",
+        "tags": [
+            "programming",
+            "mobile"
+        ],
+        "details": "Learn to build Android and iOS apps from scratch using React Native. Course covers UI components, navigation, state management, and deployment.",
+        "dressCode": "Casual",
+        "ageRestrictions": "16 and above",
+        "speakers": [
+            {
+                "speakerName": "Karan Malhotra",
+                "speakerDesignation": "Mobile Developer",
+                "speakerImg": "https://example.com/speakers/karan_malhotra.jpg"
+            }
+        ],
+        "venue": "Online Classroom",
+        "entryFee": 650
+    },
+    {
+        "title": "Mental Health Awareness Talk",
+        "date": "Fri February 28 2025",
+        "startTime": "05:00:00 PM IST",
+        "endTime": "07:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/mental_health_awareness.jpg",
+        "tags": [
+            "health",
+            "mental health"
+        ],
+        "details": "A talk on mental health awareness, stigma reduction, and coping strategies. Hosted by clinical psychologist Dr. Aruna Rao, with an open Q&A.",
+        "dressCode": "Casual",
+        "ageRestrictions": "All ages",
+        "speakers": [
+            {
+                "speakerName": "Dr. Aruna Rao",
+                "speakerDesignation": "Clinical Psychologist",
+                "speakerImg": "https://example.com/speakers/aruna_rao.jpg"
+            }
+        ],
+        "venue": "Community Hall, City Center",
+        "entryFee": 200
+    },
+    {
+        "title": "Blockchain for Beginners Webinar",
+        "date": "Mon March 10 2025",
+        "startTime": "07:00:00 PM IST",
+        "endTime": "09:00:00 PM IST",
+        "type": "Online",
+        "imageThumbnail": "https://example.com/images/blockchain_beginners.jpg",
+        "tags": [
+            "technology",
+            "blockchain"
+        ],
+        "details": "An introductory webinar covering blockchain basics, its potential uses, and how to get started with cryptocurrency.",
+        "dressCode": "Casual",
+        "ageRestrictions": "15 and above",
+        "speakers": [
+            {
+                "speakerName": "Nikhil Sharma",
+                "speakerDesignation": "Blockchain Enthusiast",
+                "speakerImg": "https://example.com/speakers/nikhil_sharma.jpg"
+            }
+        ],
+        "venue": "Online Webinar",
+        "entryFee": 0
+    },
+    {
+        "title": "Art Therapy Session",
+        "date": "Sun April 12 2025",
+        "startTime": "03:00:00 PM IST",
+        "endTime": "05:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/art_therapy_session.jpg",
+        "tags": [
+            "therapy",
+            "art",
+            "health"
+        ],
+        "details": "Engage in creative expression through guided art therapy to promote emotional well-being and stress relief. Suitable for all skill levels.",
+        "dressCode": "Comfortable",
+        "ageRestrictions": "12 and above",
+        "speakers": [
+            {
+                "speakerName": "Sonal Kapoor",
+                "speakerDesignation": "Art Therapist",
+                "speakerImg": "https://example.com/speakers/sonal_kapoor.jpg"
+            }
+        ],
+        "venue": "Healing Arts Center",
+        "entryFee": 300
+    },
+    {
+        "title": "Language Learning Meetup",
+        "date": "Sat May 24 2025",
+        "startTime": "10:00:00 AM IST",
+        "endTime": "12:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/language_meetup.jpg",
+        "tags": [
+            "language",
+            "learning"
+        ],
+        "details": "Practice conversational skills in multiple languages including Spanish, French, and Mandarin with fellow language enthusiasts.",
+        "dressCode": "Casual",
+        "ageRestrictions": "All ages",
+        "speakers": [
+            {
+                "speakerName": "Laura Diaz",
+                "speakerDesignation": "Language Coach",
+                "speakerImg": "https://example.com/speakers/laura_diaz.jpg"
+            }
+        ],
+        "venue": "Community Center Room 5",
+        "entryFee": 100
+    },
+    {
+        "title": "Blockchain Developer Meetup",
+        "date": "Fri June 20 2025",
+        "startTime": "06:00:00 PM IST",
+        "endTime": "09:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/blockchain_meetup.jpg",
+        "tags": [
+            "blockchain",
+            "developer",
+            "technology"
+        ],
+        "details": "Network with blockchain developers and share insights on decentralized application development and smart contracts.",
+        "dressCode": "Casual",
+        "ageRestrictions": "18 and above",
+        "speakers": [
+            {
+                "speakerName": "Pranav Joshi",
+                "speakerDesignation": "Blockchain Developer",
+                "speakerImg": "https://example.com/speakers/pranav_joshi.jpg"
+            }
+        ],
+        "venue": "Tech Hub, Mumbai",
+        "entryFee": 200
+    },
+    {
+        "title": "Meditation Workshop",
+        "date": "Sun July 27 2025",
+        "startTime": "08:00:00 AM IST",
+        "endTime": "11:00:00 AM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/meditation_workshop.jpg",
+        "tags": [
+            "wellness",
+            "meditation"
+        ],
+        "details": "Learn various meditation techniques to reduce stress and improve focus. Suitable for beginners and experienced practitioners.",
+        "dressCode": "Comfortable",
+        "ageRestrictions": "All ages",
+        "speakers": [
+            {
+                "speakerName": "Lakshmi Nair",
+                "speakerDesignation": "Meditation Coach",
+                "speakerImg": "https://example.com/speakers/lakshmi_nair.jpg"
+            }
+        ],
+        "venue": "Peace Garden, City Park",
+        "entryFee": 350
+    },
+    {
+        "title": "Cloud Computing Seminar",
+        "date": "Thu August 6 2025",
+        "startTime": "09:00:00 AM IST",
+        "endTime": "12:00:00 PM IST",
+        "type": "Online",
+        "imageThumbnail": "https://example.com/images/cloud_computing_seminar.jpg",
+        "tags": [
+            "technology",
+            "cloud"
+        ],
+        "details": "An overview of cloud computing technologies, service models, and deployment strategies with live demos and Q&A.",
+        "dressCode": "Casual",
+        "ageRestrictions": "18 and above",
+        "speakers": [
+            {
+                "speakerName": "Manish Gupta",
+                "speakerDesignation": "Cloud Architect",
+                "speakerImg": "https://example.com/speakers/manish_gupta.jpg"
+            }
+        ],
+        "venue": "Online Webinar",
+        "entryFee": 400
+    },
+    {
+        "title": "Music Production Bootcamp",
+        "date": "Sat September 13 2025",
+        "startTime": "11:00:00 AM IST",
+        "endTime": "05:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/music_production_bootcamp.jpg",
+        "tags": [
+            "music",
+            "production",
+            "art"
+        ],
+        "details": "Hands-on workshop on music production, mixing, and mastering using industry-standard software. Led by DJ and producer Akash Mehra.",
+        "dressCode": "Casual",
+        "ageRestrictions": "15 and above",
+        "speakers": [
+            {
+                "speakerName": "Akash Mehra",
+                "speakerDesignation": "Music Producer",
+                "speakerImg": "https://example.com/speakers/akash_mehra.jpg"
+            }
+        ],
+        "venue": "Sound Studio, Arts Complex",
+        "entryFee": 650
+    },
+    {
+        "title": "Data Visualization Seminar",
+        "date": "Wed October 29 2025",
+        "startTime": "10:00:00 AM IST",
+        "endTime": "01:00:00 PM IST",
+        "type": "Online",
+        "imageThumbnail": "https://example.com/images/data_visualization_seminar.jpg",
+        "tags": [
+            "data",
+            "visualization",
+            "technology"
+        ],
+        "details": "Learn techniques for creating impactful data visualizations using tools like Tableau and Power BI.",
+        "dressCode": "Casual",
+        "ageRestrictions": "18 and above",
+        "speakers": [
+            {
+                "speakerName": "Sneha Rao",
+                "speakerDesignation": "Data Analyst",
+                "speakerImg": "https://example.com/speakers/sneha_rao.jpg"
+            }
+        ],
+        "venue": "Virtual Classroom",
+        "entryFee": 300
+    },
+    {
+        "title": "Entrepreneurship Bootcamp",
+        "date": "Mon November 17 2025",
+        "startTime": "09:00:00 AM IST",
+        "endTime": "05:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/entrepreneurship_bootcamp.jpg",
+        "tags": [
+            "entrepreneurship",
+            "business"
+        ],
+        "details": "Comprehensive training on starting and managing a business, including business model development, marketing, and funding.",
+        "dressCode": "Business Casual",
+        "ageRestrictions": "18 and above",
+        "speakers": [
+            {
+                "speakerName": "Ankit Sharma",
+                "speakerDesignation": "Entrepreneur",
+                "speakerImg": "https://example.com/speakers/ankit_sharma.jpg"
+            }
+        ],
+        "venue": "Startup Incubator, City Center",
+        "entryFee": 800
+    },
+    {
+        "title": "Fitness Bootcamp",
+        "date": "Sat December 21 2025",
+        "startTime": "07:00:00 AM IST",
+        "endTime": "10:00:00 AM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/fitness_bootcamp.jpg",
+        "tags": [
+            "health",
+            "fitness"
+        ],
+        "details": "High-intensity interval training and fitness coaching session to improve strength, stamina, and overall health.",
+        "dressCode": "Sportswear",
+        "ageRestrictions": "16 and above",
+        "speakers": [
+            {
+                "speakerName": "Siddharth Roy",
+                "speakerDesignation": "Fitness Trainer",
+                "speakerImg": "https://example.com/speakers/siddharth_roy.jpg"
+            }
+        ],
+        "venue": "Fitness Center Gym",
+        "entryFee": 400
+    },
+    {
+        "title": "Tech Career Fair",
+        "date": "Fri January 10 2025",
+        "startTime": "10:00:00 AM IST",
+        "endTime": "04:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/tech_career_fair.jpg",
+        "tags": [
+            "career",
+            "technology"
+        ],
+        "details": "Meet top tech companies hiring for software developers, data scientists, and IT specialists. Includes resume reviews and interview preparation workshops.",
+        "dressCode": "Business Formal",
+        "ageRestrictions": "18 and above",
+        "speakers": [
+            {
+                "speakerName": "Rohit Sharma",
+                "speakerDesignation": "HR Manager",
+                "speakerImg": "https://example.com/speakers/rohit_sharma.jpg"
+            }
+        ],
+        "venue": "Convention Center, Mumbai",
+        "entryFee": 0
+    },
+    {
+        "title": "Creative Coding Workshop",
+        "date": "Wed February 19 2025",
+        "startTime": "01:00:00 PM IST",
+        "endTime": "05:00:00 PM IST",
+        "type": "Online",
+        "imageThumbnail": "https://example.com/images/creative_coding_workshop.jpg",
+        "tags": [
+            "programming",
+            "art",
+            "creative"
+        ],
+        "details": "Explore coding as an artistic medium. Use Processing and p5.js to create interactive visuals and animations.",
+        "dressCode": "Casual",
+        "ageRestrictions": "14 and above",
+        "speakers": [
+            {
+                "speakerName": "Megha Jain",
+                "speakerDesignation": "Creative Technologist",
+                "speakerImg": "https://example.com/speakers/megha_jain.jpg"
+            }
+        ],
+        "venue": "Virtual Studio",
+        "entryFee": 450
+    },
+    {
+        "title": "Digital Photography Contest",
+        "date": "Mon March 30 2025",
+        "startTime": "08:00:00 AM IST",
+        "endTime": "06:00:00 PM IST",
+        "type": "Offline",
+        "imageThumbnail": "https://example.com/images/digital_photography_contest.jpg",
+        "tags": [
+            "photography",
+            "contest"
+        ],
+        "details": "Participate in a city-wide digital photography contest with prizes for best landscape, portrait, and creative shots. Open to amateurs and professionals.",
+        "dressCode": "Casual",
+        "ageRestrictions": "All ages",
+        "speakers": [
+            {
+                "speakerName": "Kavita Rao",
+                "speakerDesignation": "Professional Photographer",
+                "speakerImg": "https://example.com/speakers/kavita_rao.jpg"
+            }
+        ],
+        "venue": "Community Art Hall",
+        "entryFee": 200
+    }
+]
