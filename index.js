@@ -20,7 +20,7 @@ try {
   const jsonData = fs.readFileSync("meetups.json", "utf-8");
   meetupsData = JSON.parse(jsonData);
 } catch (error) {
-  throw error;
+  console.warn("Warning: Could not load meetups.json file.", error.message);
 }
 
 const seedData = async () => {
@@ -41,7 +41,7 @@ const seedData = async () => {
         venue: meetupData.venue,
         entryFee: meetupData.entryFee,
       });
-      newMeetup.save();
+      await newMeetup.save();
     }
   } catch (error) {
     console.log("An error occurred while seeding data.");
