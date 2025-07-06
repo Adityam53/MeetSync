@@ -62,7 +62,7 @@ const readAllMeetups = async () => {
 app.get("/meetups", async (req, res) => {
   try {
     const allMeetups = await readAllMeetups();
-    if (allMeetups.length != 0) {
+    if (allMeetups.length > 0) {
       res.json(allMeetups);
     } else {
       res.status(404).json({ error: "Meetups not found" });
